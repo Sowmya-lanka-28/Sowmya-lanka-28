@@ -71,8 +71,8 @@ I enjoy designing AI applications that automate business workflows, analyze unst
 - 📄 AI Document Intelligence
 - 🤖 Policy Question Answering Assistant
 - 🩺 Clinical Text Summarization
-- 📑 Resume Screening System
-- 📈 Customer Churn Prediction
+- 📈 Buy Box Price Prediction
+- 📑 DI Flag Isuue
 
 ---
 
@@ -88,7 +88,7 @@ I enjoy designing AI applications that automate business workflows, analyze unst
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/sowmya-lanka-323806400
-- 📧 Email: your-email@example.com
+- 📧 Email: sowmyalanka86@gmail.com
 
 ---
 
