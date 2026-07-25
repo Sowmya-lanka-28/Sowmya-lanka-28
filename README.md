@@ -2,94 +2,84 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist** and **Generative AI Engineer** with nearly **3 years of experience** building intelligent AI solutions using Machine Learning, NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+I'm an aspiring **Data Scientist** and **Generative AI Enthusiast** with a strong foundation in Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
-I enjoy designing AI applications that automate business workflows, analyze unstructured data, and improve decision-making through Generative AI.
+I enjoy building AI-powered applications that solve real-world problems, automate workflows, and transform unstructured data into meaningful insights. I'm passionate about learning emerging AI technologies and continuously improving my skills through hands-on projects.
 
----
+## 💼 Areas of Interest
 
-## 💼 What I Build
-
-- 🤖 AI Assistants
-- 📄 Document Intelligence Systems
-- 🔍 RAG Applications
-- 💬 Chatbots powered by LLMs
-- 📊 Machine Learning Solutions
-- 🧠 NLP Applications
-- 📈 Predictive Analytics
-
----
+* 🤖 AI Assistants
+* 📄 Document Intelligence Systems
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 💬 LLM-powered Chatbots
+* 📊 Machine Learning Applications
+* 🧠 Natural Language Processing
+* 📈 Predictive Analytics
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Programming Languages
 
-- Python
-- SQL
+* Python
+* SQL
 
-**AI & Machine Learning**
+### AI & Machine Learning
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Generative AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
 
-**Frameworks & Tools**
+### Frameworks & Tools
 
-- LangChain
-- Hugging Face
-- FastAPI
-- Streamlit
+* LangChain
+* Hugging Face Transformers
+* FastAPI
+* Streamlit
 
-**Cloud**
+### Cloud Platforms
 
-- Azure OpenAI
-- Microsoft Azure
-- Google Gemini
-- Google Cloud Platform
+* Azure OpenAI
+* Microsoft Azure
+* Google Gemini
+* Google Cloud Platform (GCP)
 
-**Data**
+### Data & Analytics
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Power BI
+* Pandas
+* NumPy
+* Scikit-learn
+* Power BI
 
-**Development**
+### Development Tools
 
-- Git
-- GitHub
-- Docker
-
----
+* Git
+* GitHub
+* Docker
 
 ## 🌟 Featured Projects
 
-- 📄 AI Document Intelligence
-- 🤖 Policy Question Answering Assistant
-- 🩺 Clinical Text Summarization
-- 📈 Buy Box Price Prediction
-- 📑 DI Flag Isuue
-
----
+* 📄 AI Document Intelligence System
+* 🤖 Policy Question Answering Assistant
+* 🩺 Clinical Text Summarization using Gemini
+* 📈 Buy Box Price Prediction
+* 📑 DI Flag Detection using NLP
 
 ## 🌱 Currently Learning
 
-- AI Agents
-- Multi-Agent Systems
-- Advanced RAG
-- MCP (Model Context Protocol)
-
----
+* AI Agents
+* Multi-Agent Systems
+* Advanced RAG
+* Model Context Protocol (MCP)
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/sowmya-lanka-323806400
-- 📧 Email: sowmyalanka86@gmail.com
+* 💼 LinkedIn: [www.linkedin.com/in/sowmya-lanka-323806400](http://www.linkedin.com/in/sowmya-lanka-323806400)
+* 💻 GitHub: github.com/Sowmya-lanka-28
+* 📧 Email: [sowmyalanka86@gmail.com](mailto:sowmyalanka86@gmail.com)
 
----
+⭐ Thanks for visiting my profile!
 
-⭐ Thank you for visiting my profile!
